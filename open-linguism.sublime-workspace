@@ -1,0 +1,213 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/config",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/handlers",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/handlers/cases",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/handlers/cases/{caseId}/events",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/handlers/cases/{caseId}/events/{eventId}",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/handlers/cases/{caseId}/events/{eventId}/nodes",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/handlers/cases/{caseId}/events/{eventId}/nodes/{nodeId}",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/models",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/apps",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/apps/admin",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/apps/admin/js",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/apps/admin/js/app",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/apps/admin/js/app/controllers",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/apps/admin/views",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/apps/admin/views/common"
+	],
+	"file_history":
+	[
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/aws.js",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/apps/admin/views/event.html",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/apps/admin/views/events.html",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/apps/admin/js/app/controllers/event.js",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/apps/admin/js/app/controllers/events.js",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/apps/admin/js/app/controllers/cases.js",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/apps/admin/js/app/app.js",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/apps/admin/js/app/menu.js",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/apps/admin/views/cases.html",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/apps/admin/views/common/header.html",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/apps/admin/views/home.html",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/apps/admin/index.html",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/contact.html",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/docs.html",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/downloads.html",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/reference-applications.html",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/handlers/tools/clear-server.js",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/config/swagger.yaml",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/public/index.html",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/models/Cases.js",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/models/Events.js",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/models/Nodes.js",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/handlers/cases.js",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/config/config.yaml",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/models/index.js",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/lib/database.js",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/nbproject/project.xml",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/OpenIntel.sublime-workspace",
+		"/Users/darrensmith/Desktop/Software Projects/OpenIntel/OpenIntel.sublime-project",
+		"/Users/darrensmith/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "OpenIntel.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

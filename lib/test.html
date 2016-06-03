@@ -1,0 +1,40 @@
+<html>
+	<head>
+		<title>OpenLinguism Test</title>
+	</head>
+
+	<body>
+
+		<script src="openlinguism.js"></script>
+		<script>
+			document.addEventListener('dbloaded', function(){
+				console.log('Database Loaded');
+				console.log(openLinguism.database);
+			});
+			openLinguism.loadDBFromURL('database.json');
+			document.analyseBlock = function() {
+				var analyseTextResults = document.getElementById("analyseTextResults");
+				var results = openLinguism.analyseTextBlock(document.getElementById('textBlock').value);
+				analyseTextResults.innerHTML = JSON.stringify(results);
+			}
+		</script>
+
+		<form>
+			<div>
+				<button type="button" id="loadDatabase" onclick="openLinguism.loadDBFromURL('database.json'); return false;">Load Database</button>
+				<button type="button" id="saveDatabaseNative" onclick="openLinguism.fetchDBClient('nativejs'); return false;">Save Database (Native JS)</button>
+				<button type="button" id="saveDatabaseJSON" onclick="openLinguism.fetchDBClient('json'); return false;">Save Database (JSON)</button>
+			</div>
+
+			<div>
+				<p>Enter text block to analyse:</p>
+				<textarea id="textBlock"></textarea>
+				<button type="button" id="analyseTextBlock" onclick="document.analyseBlock(); return false;">Analyse Text Block</button>
+				<p>Results</p>
+				<div id="analyseTextResults"></div>
+			</div>
+		</form>
+
+
+	</body>
+</html>
